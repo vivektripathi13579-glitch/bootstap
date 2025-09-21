@@ -1,0 +1,193 @@
+/* nabar */
+
+.logo{
+
+    width: 65px;
+
+}
+
+.navbar{
+
+    background:#00000082 !important;
+
+}
+
+.navbar-nav li{
+
+    padding: 0 10px;
+
+}
+
+.navbar-nav li a{
+
+    color: #fff !important;
+
+    font-weight: 600;
+
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+.img123{
+
+    width: 80%;
+
+}
+
+.a{
+
+    text-align: center;
+
+    padding-top: 20px;
+
+    text-transform: uppercase;
+
+    font-family: 'prague';
+
+    letter-spacing: 3px;
+
+}
+
+.b{
+
+    line-height: 35px;
+
+    letter-spacing: 1px;
+
+    word-spacing: 1px;
+
+    padding-right: 5px;
+
+    text-align: justify;
+
+}
+
+.c{
+
+    background: url(https://pn-paul.netlify.app/image/img%20background.jpg);
+
+    height: 400px;
+
+    padding-top: 120px;
+
+    margin-top: 20px;
+
+
+
+}
+
+.d{
+
+    line-height: 35px;
+
+    letter-spacing: 1px;
+
+    word-spacing: 1px;
+
+    padding-right: 5px;
+
+}
+
+.e{
+
+    line-height: 40px;
+
+    letter-spacing: 1px;
+
+    word-spacing: 1px;
+
+    padding-right: 5px;
+
+    margin-top: 10px;
+
+    text-align: center;
+
+
+
+}
+
+.g{
+
+    background: url(https://pn-paul.netlify.app/image/ffback2.png);
+
+    height: 500px;
+
+   padding-top: 200px;
+
+    margin-top: 100px;
+
+}
+
+.z{
+
+    line-height: 10px;
+
+    letter-spacing: 1px;
+
+    word-spacing: 1px;
+
+    padding-right: 5px;
+
+}
+
+.v{
+
+    line-height: 40px;
+
+    letter-spacing: 1px;
+
+    word-spacing: 1px;
+
+    padding-right: 5px;
+
+}
+
+.footer{
+
+    background: #020306f0;
+
+    padding: 50px;
+
+    color: #fff;
+
+}
+
+.footering{
+
+    margin-top: 30px;
+
+    width: 50%;
+
+}
+
+.h22{
+
+    font-family: "prague";
+
+    font-size: 2 rem;
+
+    line-height: 50px;
+
+    letter-spacing: 3px;
+
+    color: #fff;
+
+}
+
+.p1{
+
+    font-size: 16px;
+
+    line-height: 28px;
+
+    letter-spacing: 1px;
+
+}
